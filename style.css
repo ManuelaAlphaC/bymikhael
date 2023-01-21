@@ -9,10 +9,10 @@
 }
 
 body{
-  background: #000000e6;
+  background: #ffffffe6;
 }
 .nav, a{
-  font-weight: 300;
+  font-weight: 200;
   font-size: 18px;
   text-decoration: none;
 }

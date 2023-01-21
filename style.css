@@ -12,7 +12,9 @@ body{
   background: #ffffffe6;
 }
 .nav, a{
-  font-weight: 200;
+  padding: 6px -10px;
+  margin-left: 10px;
+  font-size: 25px;
   font-size: 18px;
   text-decoration: none;
 }
